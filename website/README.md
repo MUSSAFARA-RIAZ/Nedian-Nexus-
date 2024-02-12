@@ -2,7 +2,7 @@
 
 ## Overview of the Project
 
-“NediaN Nexus” is a database web application. This website is developed to benefit the Nedians who are the cloud id holders. The website requires the users cloud id to register or log in. By doing so the user can buy the products posted on the website. There are three views of user on the website: buyer’s view, seller’s view and the admin’s view. The website has a user-friendly interface and is responsive.
+“NediaN Nexus” is a database web application. This website is developed to benefit the Nedians who are the cloud id holders. The website requires the users cloud id to register or log in. By doing so the user can buy the products posted on the website. There are three views of user on the website: buyer’s view, seller’s view and the admin’s view.d The website has a user-friendly interface and is responsive.
 
 ## Problem Statement 
 This website has been designed to facilitates Nedians to sell their own 
