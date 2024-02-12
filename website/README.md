@@ -40,6 +40,5 @@ buyer.
 ![screenshot](https://github.com/sidramwaseem/Nedian-Nexus/blob/main/screenshots/quickView.png?raw=true)
 
 ## Contact Me
-- LinkedIn - [sidramwaseem](https://www.linkedin.com/in/sidramwaseem/)
-- Twitter - [sidramwaseem](https://www.twitter.com/sidramwaseem)
-- Instagram - [sidramwaseem](https://www.instagram.com/sidramwaseem)
+- LinkedIn - [mussafarariaz](https://www.linkedin.com/in/mussafara-riaz-a38012213/)
+
